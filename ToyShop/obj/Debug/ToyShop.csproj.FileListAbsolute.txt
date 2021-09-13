@@ -1,0 +1,26 @@
+C:\Users\Children\source\repos\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\Children\source\repos\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\Children\source\repos\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.csprojAssemblyReference.cache
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.FormFeedback.resources
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.FormHelp.resources
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.FormOrder.resources
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.Properties.Resources.resources
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.csproj.GenerateResource.cache
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.pdb
+C:\Users\Children\source\repos\ToyShop\obj\Debug\ToyShop.FormHome.resources
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.csprojAssemblyReference.cache
+D:\бывший с\source\repos\ToyShop\bin\Debug\ToyShop.exe.config
+D:\бывший с\source\repos\ToyShop\bin\Debug\ToyShop.exe
+D:\бывший с\source\repos\ToyShop\bin\Debug\ToyShop.pdb
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.FormHome.resources
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.FormFeedback.resources
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.FormHelp.resources
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.FormOrder.resources
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.Properties.Resources.resources
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.csproj.GenerateResource.cache
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.exe
+D:\бывший с\source\repos\ToyShop\obj\Debug\ToyShop.pdb
