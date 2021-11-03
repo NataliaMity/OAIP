@@ -1,0 +1,16 @@
+﻿<Page x:Class="toy_shop.MainMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:toy_shop"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="500"
+      Title="MainMenu">
+    <Grid>
+        <Button Width="100" Height="25" Content="Order" Margin="200,127,200,298" Click="Order_Click"/>
+        <Button Width="100" Height="25" Content="Help" Margin="200,170,200,255" Click="Help_Click"/>
+        <Button Width="100" Height="25" Content="Feedback" Margin="200,217,200,208" Click="Feedback_Click"/>
+        <Button Width="100" Height="25" Content="Exit" Margin="200,267,200,158" Click="OnClose"/>
+    </Grid>
+</Page>

@@ -1,0 +1,17 @@
+C:\Users\Children\source\repos\toy_shop\bin\Debug\toy_shop.exe.config
+C:\Users\Children\source\repos\toy_shop\bin\Debug\toy_shop.exe
+C:\Users\Children\source\repos\toy_shop\bin\Debug\toy_shop.pdb
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop.csprojAssemblyReference.cache
+C:\Users\Children\source\repos\toy_shop\obj\Debug\MainWindow.g.cs
+C:\Users\Children\source\repos\toy_shop\obj\Debug\App.g.cs
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop_MarkupCompile.cache
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop_MarkupCompile.lref
+C:\Users\Children\source\repos\toy_shop\obj\Debug\MainWindow.baml
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop.g.resources
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop.Properties.Resources.resources
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop.csproj.GenerateResource.cache
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop.csproj.CoreCompileInputs.cache
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop.exe
+C:\Users\Children\source\repos\toy_shop\obj\Debug\toy_shop.pdb
+C:\Users\Children\source\repos\toy_shop\obj\Debug\MainMenu.g.cs
+C:\Users\Children\source\repos\toy_shop\obj\Debug\MainMenu.baml
